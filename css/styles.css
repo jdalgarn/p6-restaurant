@@ -14,6 +14,13 @@ body {
     background-position:center;
   }
 
+  h4{
+
+    color: white;
+    
+  }
+ 
+
 .heading_title p {
     font-size: 24px;
 
@@ -26,6 +33,7 @@ body {
 }
 .row div {
     padding-left: 5px;
+    color: white;
 }
 .light_blue {
     background: #0faaef;
